@@ -1,6 +1,6 @@
 # Employee Productivity Dashboard Analysis
  Build a dashboard to monitor employee performance metrics such  as tasks completed, hours worked, and productivity rates.
-![](images/1st.JPG)
+![Main Page](images/1st.JPG)
 
 * KPI Cards:
 Show key metrics like total employees, employed count, average age, productivity rate, and average job duration.
@@ -25,3 +25,8 @@ A stacked bar chart comparing average employee satisfaction and performance scor
 
 * Department-wise Employee Count:
 A column chart showing the number of employees in each department.
+
+
+![](images/2nd.JPG)
+![](images/3rd.JPG)
+
